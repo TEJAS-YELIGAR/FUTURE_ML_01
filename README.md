@@ -82,7 +82,7 @@ Build a machine learning model to forecast future monthly sales using historical
 ---
 
 ## 📁 Repository Structure
-
+```
 FUTURE_ML_01/
 ├── forecasting.ipynb        ← Full Jupyter Notebook with code & outputs
 ├── sales_data.csv           ← Dataset (Kaggle Store Sales)
@@ -90,3 +90,4 @@ FUTURE_ML_01/
 ├── forecast_comparison.png  ← Model comparison chart
 ├── future_forecast.png      ← 6-month future forecast chart
 └── README.md                ← Project documentation
+```
